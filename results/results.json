@@ -1,0 +1,598 @@
+{
+  "per_seed": {
+    "17": {
+      "access_only": {
+        "context": "360/720",
+        "scoped": "5/16",
+        "per_question": {
+          "account": 0,
+          "action": 120,
+          "object": 0,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 0
+        }
+      },
+      "structured": {
+        "context": "720/720",
+        "scoped": "10/16",
+        "per_question": {
+          "account": 120,
+          "action": 120,
+          "object": 120,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 120
+        }
+      },
+      "structured_anchored": {
+        "context": "720/720",
+        "scoped": "16/16",
+        "per_question": {
+          "account": 120,
+          "action": 120,
+          "object": 120,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 120
+        },
+        "detected": null
+      },
+      "mapped_unanchored": {
+        "context": "720/720",
+        "scoped": "14/16",
+        "per_question": {
+          "account": 120,
+          "action": 120,
+          "object": 120,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 120
+        },
+        "detected": null
+      },
+      "mapped_anchored": {
+        "context": "720/720",
+        "scoped": "16/16",
+        "per_question": {
+          "account": 120,
+          "action": 120,
+          "object": 120,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 120
+        },
+        "detected": null
+      }
+    },
+    "29": {
+      "structured": {
+        "context": "720/720",
+        "scoped": "10/16",
+        "per_question": {
+          "account": 120,
+          "action": 120,
+          "object": 120,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 120
+        }
+      },
+      "structured_anchored": {
+        "context": "720/720",
+        "scoped": "16/16",
+        "per_question": {
+          "account": 120,
+          "action": 120,
+          "object": 120,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 120
+        },
+        "detected": null
+      },
+      "mapped_unanchored": {
+        "context": "720/720",
+        "scoped": "14/16",
+        "per_question": {
+          "account": 120,
+          "action": 120,
+          "object": 120,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 120
+        },
+        "detected": null
+      },
+      "mapped_anchored": {
+        "context": "720/720",
+        "scoped": "16/16",
+        "per_question": {
+          "account": 120,
+          "action": 120,
+          "object": 120,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 120
+        },
+        "detected": null
+      },
+      "access_only": {
+        "context": "360/720",
+        "scoped": "5/16",
+        "per_question": {
+          "account": 0,
+          "action": 120,
+          "object": 0,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 0
+        }
+      }
+    },
+    "41": {
+      "structured_anchored": {
+        "context": "720/720",
+        "scoped": "16/16",
+        "per_question": {
+          "account": 120,
+          "action": 120,
+          "object": 120,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 120
+        },
+        "detected": null
+      },
+      "mapped_unanchored": {
+        "context": "720/720",
+        "scoped": "14/16",
+        "per_question": {
+          "account": 120,
+          "action": 120,
+          "object": 120,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 120
+        },
+        "detected": null
+      },
+      "mapped_anchored": {
+        "context": "720/720",
+        "scoped": "16/16",
+        "per_question": {
+          "account": 120,
+          "action": 120,
+          "object": 120,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 120
+        },
+        "detected": null
+      },
+      "access_only": {
+        "context": "360/720",
+        "scoped": "5/16",
+        "per_question": {
+          "account": 0,
+          "action": 120,
+          "object": 0,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 0
+        }
+      },
+      "structured": {
+        "context": "720/720",
+        "scoped": "10/16",
+        "per_question": {
+          "account": 120,
+          "action": 120,
+          "object": 120,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 120
+        }
+      }
+    },
+    "53": {
+      "mapped_unanchored": {
+        "context": "720/720",
+        "scoped": "14/16",
+        "per_question": {
+          "account": 120,
+          "action": 120,
+          "object": 120,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 120
+        },
+        "detected": null
+      },
+      "mapped_anchored": {
+        "context": "720/720",
+        "scoped": "16/16",
+        "per_question": {
+          "account": 120,
+          "action": 120,
+          "object": 120,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 120
+        },
+        "detected": null
+      },
+      "access_only": {
+        "context": "360/720",
+        "scoped": "5/16",
+        "per_question": {
+          "account": 0,
+          "action": 120,
+          "object": 0,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 0
+        }
+      },
+      "structured": {
+        "context": "720/720",
+        "scoped": "10/16",
+        "per_question": {
+          "account": 120,
+          "action": 120,
+          "object": 120,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 120
+        }
+      },
+      "structured_anchored": {
+        "context": "720/720",
+        "scoped": "16/16",
+        "per_question": {
+          "account": 120,
+          "action": 120,
+          "object": 120,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 120
+        },
+        "detected": null
+      }
+    },
+    "67": {
+      "mapped_anchored": {
+        "context": "720/720",
+        "scoped": "16/16",
+        "per_question": {
+          "account": 120,
+          "action": 120,
+          "object": 120,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 120
+        },
+        "detected": null
+      },
+      "access_only": {
+        "context": "360/720",
+        "scoped": "5/16",
+        "per_question": {
+          "account": 0,
+          "action": 120,
+          "object": 0,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 0
+        }
+      },
+      "structured": {
+        "context": "720/720",
+        "scoped": "10/16",
+        "per_question": {
+          "account": 120,
+          "action": 120,
+          "object": 120,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 120
+        }
+      },
+      "structured_anchored": {
+        "context": "720/720",
+        "scoped": "16/16",
+        "per_question": {
+          "account": 120,
+          "action": 120,
+          "object": 120,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 120
+        },
+        "detected": null
+      },
+      "mapped_unanchored": {
+        "context": "720/720",
+        "scoped": "14/16",
+        "per_question": {
+          "account": 120,
+          "action": 120,
+          "object": 120,
+          "timestamp": 120,
+          "outcome": 120,
+          "linkage": 120
+        },
+        "detected": null
+      }
+    }
+  },
+  "aggregate": {
+    "access_only": {
+      "requests": 600,
+      "events": 600,
+      "context": "1800/3600",
+      "context_pct": 50.0,
+      "scoped": "5/16",
+      "satisfied": [
+        "FR02",
+        "FR04",
+        "FR05",
+        "FR09",
+        "FR15"
+      ],
+      "complete_paths": "0/16"
+    },
+    "structured": {
+      "requests": 600,
+      "events": 1300,
+      "context": "3600/3600",
+      "context_pct": 100.0,
+      "scoped": "10/16",
+      "satisfied": [
+        "FR01",
+        "FR02",
+        "FR03",
+        "FR04",
+        "FR05",
+        "FR06",
+        "FR07",
+        "FR08",
+        "FR09",
+        "FR15"
+      ],
+      "complete_paths": "0/16"
+    },
+    "structured_anchored": {
+      "requests": 600,
+      "events": 1300,
+      "context": "3600/3600",
+      "context_pct": 100.0,
+      "scoped": "16/16",
+      "satisfied": [
+        "FR01",
+        "FR02",
+        "FR03",
+        "FR04",
+        "FR05",
+        "FR06",
+        "FR07",
+        "FR08",
+        "FR09",
+        "FR10",
+        "FR11",
+        "FR12",
+        "FR13",
+        "FR14",
+        "FR15",
+        "FR16"
+      ],
+      "complete_paths": "0/16"
+    },
+    "mapped_unanchored": {
+      "requests": 600,
+      "events": 1300,
+      "context": "3600/3600",
+      "context_pct": 100.0,
+      "scoped": "14/16",
+      "satisfied": [
+        "FR01",
+        "FR02",
+        "FR03",
+        "FR04",
+        "FR05",
+        "FR06",
+        "FR07",
+        "FR08",
+        "FR09",
+        "FR10",
+        "FR13",
+        "FR14",
+        "FR15",
+        "FR16"
+      ],
+      "complete_paths": "16/16"
+    },
+    "mapped_anchored": {
+      "requests": 600,
+      "events": 1300,
+      "context": "3600/3600",
+      "context_pct": 100.0,
+      "scoped": "16/16",
+      "satisfied": [
+        "FR01",
+        "FR02",
+        "FR03",
+        "FR04",
+        "FR05",
+        "FR06",
+        "FR07",
+        "FR08",
+        "FR09",
+        "FR10",
+        "FR11",
+        "FR12",
+        "FR13",
+        "FR14",
+        "FR15",
+        "FR16"
+      ],
+      "complete_paths": "16/16"
+    }
+  },
+  "manipulation": {
+    "structured_anchored": {
+      "change_outcome": 5,
+      "delete_interior": 5,
+      "delete_final": 5,
+      "swap": 5,
+      "modify_recompute": 5,
+      "untouched": 5
+    },
+    "mapped_unanchored": {
+      "change_outcome": 5,
+      "delete_interior": 5,
+      "delete_final": 0,
+      "swap": 5,
+      "modify_recompute": 0,
+      "untouched": 5
+    },
+    "mapped_anchored": {
+      "change_outcome": 5,
+      "delete_interior": 5,
+      "delete_final": 5,
+      "swap": 5,
+      "modify_recompute": 5,
+      "untouched": 5
+    }
+  },
+  "volume": {
+    "access_only": {
+      "event_json": 11280
+    },
+    "structured": {
+      "event_json": 50482
+    },
+    "structured_anchored": {
+      "event_json": 50482,
+      "envelopes": 95874,
+      "manifest": 125,
+      "checkpoint": 160
+    },
+    "mapped_unanchored": {
+      "event_json": 50482,
+      "envelopes": 95874,
+      "manifest": 125,
+      "checkpoint": 0
+    },
+    "mapped_anchored": {
+      "event_json": 50482,
+      "envelopes": 95874,
+      "manifest": 125,
+      "checkpoint": 160
+    }
+  },
+  "per_activity": {
+    "access_only": {
+      "doc_update": "300/600",
+      "doc_denied": "300/600",
+      "login_ok": "300/600",
+      "upload": "300/600",
+      "login_fail": "300/600",
+      "export": "300/600"
+    },
+    "structured": {
+      "doc_update": "600/600",
+      "doc_denied": "600/600",
+      "login_ok": "600/600",
+      "upload": "600/600",
+      "login_fail": "600/600",
+      "export": "600/600"
+    },
+    "structured_anchored": {
+      "doc_update": "600/600",
+      "doc_denied": "600/600",
+      "login_ok": "600/600",
+      "upload": "600/600",
+      "login_fail": "600/600",
+      "export": "600/600"
+    },
+    "mapped_unanchored": {
+      "doc_update": "600/600",
+      "doc_denied": "600/600",
+      "login_ok": "600/600",
+      "upload": "600/600",
+      "login_fail": "600/600",
+      "export": "600/600"
+    },
+    "mapped_anchored": {
+      "doc_update": "600/600",
+      "doc_denied": "600/600",
+      "login_ok": "600/600",
+      "upload": "600/600",
+      "login_fail": "600/600",
+      "export": "600/600"
+    }
+  },
+  "checker": {
+    "intact": {
+      "elements": 32,
+      "relationships": 72,
+      "structural": 16,
+      "semantic": 16,
+      "conformance": 10
+    },
+    "faults": {
+      "missing_link": {
+        "structural": 16,
+        "semantic": 16,
+        "conformance": 0,
+        "conformance_applicable": 10,
+        "any": 16
+      },
+      "wrong_type": {
+        "structural": 0,
+        "semantic": 16,
+        "conformance": 0,
+        "conformance_applicable": 10,
+        "any": 16
+      },
+      "reversed": {
+        "structural": 0,
+        "semantic": 16,
+        "conformance": 0,
+        "conformance_applicable": 10,
+        "any": 16
+      },
+      "redirected": {
+        "structural": 16,
+        "semantic": 16,
+        "conformance": 0,
+        "conformance_applicable": 10,
+        "any": 16
+      },
+      "misassigned": {
+        "structural": 0,
+        "semantic": 0,
+        "conformance": 10,
+        "conformance_applicable": 10,
+        "any": 10
+      }
+    }
+  },
+  "boundary": {
+    "b1_end_only": "0/5",
+    "b1_periodic": "5/5",
+    "b2_tail_only": "0/5",
+    "b3_key_compromise": "0/5",
+    "b4_generator": "0/5",
+    "b5_chain_verifier": "0/5",
+    "b5_reconciliation": "5/5"
+  },
+  "boundary_exposure_events": [
+    11,
+    2,
+    10,
+    19,
+    10
+  ]
+}
